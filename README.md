@@ -7,6 +7,7 @@
 
 ## 技術的な過去
 - Java + Spring でサーバーサイド開発(2017 ~ 2021年)
+- html + css + jQueryでフロントエンド開発(2017 ~ 2021年)
 - Ruby on Railsでサーバーサイド開発(2022 ~ 現在)
 - TypeScript + Reactでフロントエンド開発(2022 ~ 現在)
 
