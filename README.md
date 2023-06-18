@@ -11,4 +11,7 @@
 - Ruby on Rails を利用したMVCアーキテクチャでサーバーサイド開発(2022 ~ 現在)
 - TypeScript + Reactでフロントエンド開発(2022 ~ 現在)
 
-
+## 好きな書籍
+- [ハッカーと画家](https://amzn.asia/d/4gXLslt)
+- [OOUI](https://amzn.asia/d/izqHXTx)
+- [Clean Architecture](https://amzn.asia/d/gYAgGWe)
