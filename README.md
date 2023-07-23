@@ -2,6 +2,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tksn07&theme=tokyonight)
 
+## 技術スタック
+[![My Skills](https://skillicons.dev/icons?i=vscode,java,eclipse,spring,ruby,rails,redis,ts,js,html,css,jquery,react,redux,nodejs,nestjs,nextjs,emotion,figma,electron,docker,git,github,gitlab,gradle,mysql,postgres,webpack,flutter,dart,aws,gcp)](https://skillicons.dev)
+
 ## 興味関心が高い技術
 - フロントエンドに関すること (html / css / JavaScript / TypeScript / a11y / デザイン)
 
