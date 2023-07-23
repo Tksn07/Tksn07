@@ -18,3 +18,7 @@
 - [ハッカーと画家](https://amzn.asia/d/4gXLslt)
 - [OOUI](https://amzn.asia/d/izqHXTx)
 - [Clean Architecture](https://amzn.asia/d/gYAgGWe)
+
+## 記事
+[Qitta](https://qiita.com/Tksn07)
+[note](https://note.com/67512)
