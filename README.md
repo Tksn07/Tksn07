@@ -19,6 +19,6 @@
 - [OOUI](https://amzn.asia/d/izqHXTx)
 - [Clean Architecture](https://amzn.asia/d/gYAgGWe)
 
-## 記事
-[Qitta](https://qiita.com/Tksn07)
-[note](https://note.com/67512)
+## 技術記事
+- [Qitta](https://qiita.com/Tksn07)
+- [note](https://note.com/67512)
